@@ -1,0 +1,16 @@
+{
+  "source": "Agmarknet / e-NAM (Cached Snapshot)",
+  "records": [
+    {"commodity": "onion", "market": "Lasalgaon", "state": "Maharashtra", "min_price": 1800, "max_price": 2650, "modal_price": 2300, "unit": "Rs/quintal"},
+    {"commodity": "onion", "market": "Pune", "state": "Maharashtra", "min_price": 1700, "max_price": 2500, "modal_price": 2150, "unit": "Rs/quintal"},
+    {"commodity": "cotton", "market": "Akola", "state": "Maharashtra", "min_price": 6900, "max_price": 7450, "modal_price": 7200, "unit": "Rs/quintal"},
+    {"commodity": "cotton", "market": "Nagpur", "state": "Maharashtra", "min_price": 6850, "max_price": 7400, "modal_price": 7150, "unit": "Rs/quintal"},
+    {"commodity": "soybean", "market": "Latur", "state": "Maharashtra", "min_price": 4350, "max_price": 4720, "modal_price": 4550, "unit": "Rs/quintal"},
+    {"commodity": "soybean", "market": "Indore", "state": "Madhya Pradesh", "min_price": 4300, "max_price": 4680, "modal_price": 4500, "unit": "Rs/quintal"},
+    {"commodity": "wheat", "market": "Kanpur", "state": "Uttar Pradesh", "min_price": 2350, "max_price": 2580, "modal_price": 2475, "unit": "Rs/quintal"},
+    {"commodity": "wheat", "market": "Ludhiana", "state": "Punjab", "min_price": 2400, "max_price": 2600, "modal_price": 2500, "unit": "Rs/quintal"},
+    {"commodity": "rice", "market": "Karnal", "state": "Haryana", "min_price": 2950, "max_price": 3450, "modal_price": 3200, "unit": "Rs/quintal"},
+    {"commodity": "pigeon pea", "market": "Kalaburagi", "state": "Karnataka", "min_price": 7200, "max_price": 8100, "modal_price": 7750, "unit": "Rs/quintal"},
+    {"commodity": "chickpea", "market": "Latur", "state": "Maharashtra", "min_price": 5600, "max_price": 6200, "modal_price": 5950, "unit": "Rs/quintal"}
+  ]
+}

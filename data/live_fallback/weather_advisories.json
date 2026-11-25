@@ -1,0 +1,12 @@
+{
+  "locations": {
+    "nagpur": {"lat": 21.1458, "lon": 79.0882, "state": "Maharashtra", "temp_c": 29.5, "humidity": 52, "rain_mm": 0.0, "wind_kmh": 9.4, "advisory": "Dry and clear weather expected. Suitable for cotton picking and foliar spray in morning hours."},
+    "pune": {"lat": 18.5204, "lon": 73.8567, "state": "Maharashtra", "temp_c": 27.0, "humidity": 58, "rain_mm": 1.2, "wind_kmh": 11.0, "advisory": "Partly cloudy with light isolated drizzle. Monitor onion plots for thrips and avoid irrigation if rain occurs."},
+    "nashik": {"lat": 19.9975, "lon": 73.7898, "state": "Maharashtra", "temp_c": 26.5, "humidity": 55, "rain_mm": 0.0, "wind_kmh": 10.2, "advisory": "Clear weather. Good conditions for onion curing and Rabi sowing."},
+    "latur": {"lat": 18.4088, "lon": 76.5604, "state": "Maharashtra", "temp_c": 28.0, "humidity": 48, "rain_mm": 0.0, "wind_kmh": 8.5, "advisory": "Dry weather. Conserve soil moisture in Rabi chickpea and sorghum."},
+    "akola": {"lat": 20.7002, "lon": 77.0082, "state": "Maharashtra", "temp_c": 29.0, "humidity": 50, "rain_mm": 0.0, "wind_kmh": 9.0, "advisory": "Clear sky. Safe window for harvesting and safe storage of cotton."},
+    "indore": {"lat": 22.7196, "lon": 75.8577, "state": "Madhya Pradesh", "temp_c": 25.5, "humidity": 54, "rain_mm": 0.0, "wind_kmh": 8.0, "advisory": "Mild temperatures. Favorable for wheat sowing and irrigation scheduling."},
+    "lucknow": {"lat": 26.8467, "lon": 80.9462, "state": "Uttar Pradesh", "temp_c": 23.0, "humidity": 62, "rain_mm": 0.0, "wind_kmh": 7.5, "advisory": "Cool mornings and mild days. Monitor early wheat for CRI stage irrigation."},
+    "karnal": {"lat": 29.6857, "lon": 76.9905, "state": "Haryana", "temp_c": 21.5, "humidity": 65, "rain_mm": 0.0, "wind_kmh": 6.8, "advisory": "Cool morning dew; inspect wheat crop for early yellow rust symptoms."}
+  }
+}
